@@ -1,9 +1,9 @@
 {
 	"background_color": "#87ff97",
-	"theme_color": "#aa1e1e",
+	"theme_color": "#84afff",
 	"name": "ommann",
 	"short_name": "ommann",
-	"display": "minimal-ui",
+	"display": "standalone",
 	"start_url": "/",
 	"icons": [
 		{
